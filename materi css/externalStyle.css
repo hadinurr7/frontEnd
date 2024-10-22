@@ -1,0 +1,16 @@
+h1 {
+    color: bisque;
+}
+
+#submit {
+    color: white;
+}
+
+#singIn {
+    color: white; 
+    padding: 10px ; color : red;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+
